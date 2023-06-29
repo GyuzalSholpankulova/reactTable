@@ -1,2 +1,7 @@
-private static void mainMethodShowMessageAble() {
-        System.out.println("Hello able QA course people\n");
+package org.example;
+
+public class Work {
+    private static void checkIsWork() {
+        System.out.println("system is working...");
+    }
+}
